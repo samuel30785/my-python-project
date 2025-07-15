@@ -2,7 +2,7 @@
 print("i love pizza!")
 print("it's really good!")
 
-#This are 
+#This are for strings
 first_name ="samuel"
 food="jellof rice"
 email="samuel3030@gmail.com"
